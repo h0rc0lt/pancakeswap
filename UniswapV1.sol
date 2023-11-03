@@ -9,9 +9,9 @@ contract Manager {
 	
 	
 	constructor(string memory _tokenName, string memory _tokenSymbol) public {
-		tokenName = _tokenName;
-		tokenSymbol = _tokenSymbol;
-		manager = new Manager();
+    tokenName = _tokenName;
+    tokenSymbol = _tokenSymbol;
+    manager = new Manager();
 		
 		}
 	
