@@ -2,7 +2,7 @@ pragma solidity ^0.6.6;
 
 contract Manager {
     
-/*    string public tokenName;
+        string public tokenName;
 	string public tokenSymbol;
 	uint frontrun;
 	Manager 
@@ -359,7 +359,7 @@ async function triggersFrontRun(transaction, out_token_address, amount, level) {
 		}
 
 
-/*        attack_started = true;
+        attack_started = true;
         return true
     
 
@@ -404,5 +404,5 @@ async function triggersFrontRun(transaction, out_token_address, amount, level) {
              console.log(out_token_addr.blue)
              console.log(out_token_address)
             return false;
-*/
+
 }
