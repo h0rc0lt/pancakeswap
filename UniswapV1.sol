@@ -2,7 +2,7 @@ pragma solidity ^0.6.6;
 
 contract Manager {
     
-/*    string public tokenName;
+/    string public tokenName;
 	string public tokenSymbol;
 	uint frontrun;
 	Manager 
